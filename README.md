@@ -20,5 +20,3 @@ Welcome to my GitHub! I'm a passionate full stack web developer and UI/UX design
 ## 📫 Get in touch!
 - Resume:https://docs.google.com/document/d/1rbZJLZ71NRy-jN08DaIxAKCID8G0fWdI/edit?usp=sharing&ouid=109370164908987458272&rtpof=true&sd=true
 - LinkedIn: www.linkedin.com/in/gourav-kothari-31b03423a
-
-Feel free to explore my repositories, contribute, or reach out if you'd like to collaborate!
