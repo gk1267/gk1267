@@ -17,8 +17,6 @@ Welcome to my GitHub! I'm a passionate full stack web developer and UI/UX design
 - 🌱 Learning more about serverless architecture and cloud computing.
 - 💡 Exploring new ways to optimize user experiences and improve design workflows.
 
-## 🛠 Recent Projects
-
 ## 📫 Get in touch!
 - Resume:https://docs.google.com/document/d/1rbZJLZ71NRy-jN08DaIxAKCID8G0fWdI/edit?usp=sharing&ouid=109370164908987458272&rtpof=true&sd=true
 - LinkedIn: www.linkedin.com/in/gourav-kothari-31b03423a
