@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gk1267&label=Profile%20views&color=0e75b6&style=flat" alt="gk1267" /> </p>
+
 # Hi, I'm Gourav Kothari👋
 
 ### 🚀 Full Stack Developer | 🎨 UI/UX Designer
